@@ -1,7 +1,7 @@
 # Hyperparametric Meta Fusion Block
 <!-- Towards Improved Skin Lesion Classification using Metadata Supervision -->
 
-==============================================================================================
+Main Repository: https://github.com/AnshulPundhir/HyperparametricMetaFusionBlock
 
 **[Towards Improved Skin Lesion Classification using Metadata Supervision]**<br>
 [Anshul Pundhir](https://anshulpundhir.github.io/), [Saurabh Dadhich](https://www.linkedin.com/in/saurabh-dadhich-a496a8197/), [Ananya Agarwal](https://www.linkedin.com/in/ananya-agarwal-500597192), and [Balasubramanian Raman](http://faculty.iitr.ac.in/~balarfma/)  
